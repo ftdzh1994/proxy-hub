@@ -1,0 +1,32 @@
+payload:
+# 绕过公司内网访问
+# CSDN: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/CSDN/CSDN.yaml
+  - DOMAIN-SUFFIX,codechina.net
+  - DOMAIN-SUFFIX,csdn.com
+  - DOMAIN-SUFFIX,csdn.net
+  - DOMAIN-SUFFIX,csdn.net.cn
+  - DOMAIN-SUFFIX,csdnimg.cn
+  - DOMAIN-SUFFIX,csto.com
+  - DOMAIN-SUFFIX,datasea.cn
+  - DOMAIN-SUFFIX,gitbook.cn
+  - DOMAIN-SUFFIX,gitchat.cn
+  - DOMAIN-SUFFIX,gitcode.com
+  - DOMAIN-SUFFIX,gitcode.net
+  - DOMAIN-SUFFIX,iteye.com
+  - DOMAIN-SUFFIX,kaifayun.com
+  - DOMAIN-SUFFIX,linuxpower.com.cn
+  - DOMAIN-SUFFIX,powerlinux.com.cn
+  - DOMAIN-SUFFIX,programmer.com.cn
+  - DOMAIN-SUFFIX,programmer.net.cn
+  - DOMAIN-SUFFIX,qualcomm-challenge.com
+  - DOMAIN-SUFFIX,tinymind.cn
+  - DOMAIN-SUFFIX,tinymind.com
+  - DOMAIN-SUFFIX,tinymind.com.cn
+  - DOMAIN-SUFFIX,topcto50.com
+  # Aliyun
+  - DOMAIN-SUFFIX,dashscope.aliyuncs.com
+  # cubox
+  - DOMAIN-SUFFIX,cubox.pro
+  # others
+  - DOMAIN-SUFFIX,53ai.com
+  - DOMAIN-SUFFIX,ac.cn

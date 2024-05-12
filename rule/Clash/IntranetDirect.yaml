@@ -1,0 +1,7 @@
+payload:
+# 直接访问公司网站不走代理，防止出错
+  - DOMAIN-KEYWORD,crc
+  - DOMAIN-KEYWORD,crdigital
+  - DOMAIN-SUFFIX,crc.com.cn
+  - DOMAIN-SUFFIX,crc.com.hk
+  - DOMAIN-SUFFIX,crclound.com
