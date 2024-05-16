@@ -1,7 +1,5 @@
 payload:
   # 一些其他的AI相关域名
-  - DOMAIN-SUFFIX,coze.com
-  - DOMAIN-SUFFIX,ciciai.com
   - DOMAIN-SUFFIX,aistudio.google.com
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,makersuite.google.com
@@ -20,3 +18,6 @@ payload:
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,qanything.ai
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,ciciai.com
