@@ -1,0 +1,5 @@
+payload:
+  # 谷歌翻译
+  - DOMAIN-SUFFIX, translate.googleapis.com
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,huggingface.co

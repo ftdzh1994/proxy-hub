@@ -27,6 +27,17 @@ payload:
   - DOMAIN-SUFFIX,dashscope.aliyuncs.com
   # cubox
   - DOMAIN-SUFFIX,cubox.pro
+  # weibo
+  - DOMAIN-SUFFIX,weibo.com,🔐 内网突破
+  - DOMAIN-SUFFIX,weibo.cn,🔐 内网突破
+
   # others
   - DOMAIN-SUFFIX,53ai.com
   - DOMAIN-SUFFIX,ac.cn
+  - DOMAIN-SUFFIX,codetop.cc,🔐 内网突破
+  - DOMAIN-SUFFIX,cnblogs.com,🔐 内网突破
+  - DOMAIN-SUFFIX,qccq.cc,🔐 内网突破
+  - DOMAIN-SUFFIX,showmeai.tech,🔐 内网突破
+  - DOMAIN-SUFFIX,bianliduo.com.cn,🔐 内网突破
+  - DOMAIN-SUFFIX,myqcloud.com,🔐 内网突破
+  - DOMAIN-SUFFIX,jianshu.com,🔐 内网突破
