@@ -1,0 +1,11 @@
+# 内网直连规则
+# 转换自 Clash 规则
+# 直接访问公司网站不走代理，防止出错
+
+HOST-KEYWORD,crc,DIRECT
+HOST-KEYWORD,crdigital,DIRECT
+HOST-SUFFIX,crc.com.cn,DIRECT
+HOST-SUFFIX,crc.com.hk,DIRECT
+HOST-SUFFIX,crclound.com,DIRECT
+HOST-SUFFIX,hrwork.com,DIRECT
+

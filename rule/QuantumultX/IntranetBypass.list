@@ -1,0 +1,49 @@
+# 内网突破规则
+# 转换自 Clash 规则
+# 绕过公司内网访问
+
+# CSDN
+HOST-SUFFIX,codechina.net,🔐 内网突破
+HOST-SUFFIX,csdn.com,🔐 内网突破
+HOST-SUFFIX,csdn.net,🔐 内网突破
+HOST-SUFFIX,csdn.net.cn,🔐 内网突破
+HOST-SUFFIX,csdnimg.cn,🔐 内网突破
+HOST-SUFFIX,csto.com,🔐 内网突破
+HOST-SUFFIX,datasea.cn,🔐 内网突破
+HOST-SUFFIX,gitbook.cn,🔐 内网突破
+HOST-SUFFIX,gitchat.cn,🔐 内网突破
+HOST-SUFFIX,gitcode.com,🔐 内网突破
+HOST-SUFFIX,gitcode.net,🔐 内网突破
+HOST-SUFFIX,iteye.com,🔐 内网突破
+HOST-SUFFIX,kaifayun.com,🔐 内网突破
+HOST-SUFFIX,linuxpower.com.cn,🔐 内网突破
+HOST-SUFFIX,powerlinux.com.cn,🔐 内网突破
+HOST-SUFFIX,programmer.com.cn,🔐 内网突破
+HOST-SUFFIX,programmer.net.cn,🔐 内网突破
+HOST-SUFFIX,qualcomm-challenge.com,🔐 内网突破
+HOST-SUFFIX,tinymind.cn,🔐 内网突破
+HOST-SUFFIX,tinymind.com,🔐 内网突破
+HOST-SUFFIX,tinymind.com.cn,🔐 内网突破
+HOST-SUFFIX,topcto50.com,🔐 内网突破
+
+# Aliyun
+HOST-SUFFIX,dashscope.aliyuncs.com,🔐 内网突破
+
+# cubox
+HOST-SUFFIX,cubox.pro,🔐 内网突破
+
+# weibo
+HOST-SUFFIX,weibo.com,🔐 内网突破
+HOST-SUFFIX,weibo.cn,🔐 内网突破
+
+# others
+HOST-SUFFIX,53ai.com,🔐 内网突破
+HOST-SUFFIX,ac.cn,🔐 内网突破
+HOST-SUFFIX,codetop.cc,🔐 内网突破
+HOST-SUFFIX,cnblogs.com,🔐 内网突破
+HOST-SUFFIX,qccq.cc,🔐 内网突破
+HOST-SUFFIX,showmeai.tech,🔐 内网突破
+HOST-SUFFIX,bianliduo.com.cn,🔐 内网突破
+HOST-SUFFIX,myqcloud.com,🔐 内网突破
+HOST-SUFFIX,jianshu.com,🔐 内网突破
+

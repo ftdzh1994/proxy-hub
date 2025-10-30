@@ -1,0 +1,28 @@
+# 自定义AI服务规则
+# 转换自 Clash 规则
+# 一些其他的AI相关域名
+
+HOST-SUFFIX,aistudio.google.com,🤖 AI服务
+HOST-SUFFIX,ai.google.dev,🤖 AI服务
+HOST-SUFFIX,makersuite.google.com,🤖 AI服务
+HOST-SUFFIX,content-autofill.googleapis.com,🤖 AI服务
+HOST-SUFFIX,content-developerprofiles-pa.googleapis.com,🤖 AI服务
+HOST-SUFFIX,alkalicore-pa.clients6.google.com,🤖 AI服务
+HOST-SUFFIX,alkalimakersuite-pa.clients6.google.com,🤖 AI服务
+HOST-SUFFIX,alkalimetricsink-pa.clients6.google.com,🤖 AI服务
+HOST-SUFFIX,generativelanguage.googleapis.com,🤖 AI服务
+HOST-SUFFIX,challenges.cloudflare.com,🤖 AI服务
+HOST-SUFFIX,openaiapi-site.azureedge.net,🤖 AI服务
+HOST-SUFFIX,civitai.com,🤖 AI服务
+HOST,bard.google.com,🤖 AI服务
+HOST,gemini.google.com,🤖 AI服务
+HOST-SUFFIX,opera-api.com,🤖 AI服务
+HOST-SUFFIX,poe.com,🤖 AI服务
+HOST-SUFFIX,qanything.ai,🤖 AI服务
+HOST-SUFFIX,anthropic.com,🤖 AI服务
+HOST-SUFFIX,perplexity.ai,🤖 AI服务
+HOST-SUFFIX,coze.com,🤖 AI服务
+HOST-SUFFIX,ciciai.com,🤖 AI服务
+HOST-SUFFIX,learning.google.com,🤖 AI服务
+HOST-SUFFIX,groq.com,🤖 AI服务
+
