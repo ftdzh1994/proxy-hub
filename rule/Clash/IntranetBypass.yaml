@@ -41,3 +41,48 @@ payload:
   - DOMAIN-SUFFIX,bianliduo.com.cn,🔐 内网突破
   - DOMAIN-SUFFIX,myqcloud.com,🔐 内网突破
   - DOMAIN-SUFFIX,jianshu.com,🔐 内网突破
+
+  - DOMAIN,dl.google.com, 🔐 内网突破    # 图床
+  - DOMAIN,api.ibos.cn, 🔐 内网突破    # 图床
+  - DOMAIN-SUFFIX,123pan.com, 🔐 内网突破
+  - DOMAIN-SUFFIX,bilibili.com, 🔐 内网突破
+  - DOMAIN-SUFFIX,luxiangdong.com, 🔐 内网突破
+  - DOMAIN-SUFFIX,iki.ai,🔐 内网突破
+  - DOMAIN-SUFFIX,langchain.com.cn,🔐 内网突破
+  - DOMAIN-SUFFIX,youxiaohou.com,🔐 内网突破
+  - DOMAIN-SUFFIX,quark.cn,🔐 内网突破
+  - DOMAIN-SUFFIX,liaoxuefeng.com,🔐 内网突破
+  - DOMAIN-SUFFIX,docs.qq.com,🔐 内网突破
+  - DOMAIN-SUFFIX,cubox.pro,🔐 内网突破
+  - DOMAIN-SUFFIX,deepseek.com,🔐 内网突破
+  - DOMAIN-SUFFIX,gitee.io,🔐 内网突破
+  - DOMAIN-SUFFIX,meixin.chat,🔐 内网突破
+  - DOMAIN-SUFFIX,paddlepaddle.org.cn,🔐 内网突破
+  - DOMAIN-SUFFIX,oclive.cn,🔐 内网突破
+  - DOMAIN-SUFFIX,51cto.com,🔐 内网突破
+  - DOMAIN-SUFFIX,paddlepaddle.org.cn,🔐 内网突破
+  - DOMAIN-SUFFIX,flomo.com,🔐 内网突破
+  - DOMAIN-SUFFIX,qwen.ai,🔐 内网突破
+  # github copilot
+  - DOMAIN-SUFFIX,codex.micosoft.icu, 🔐 内网突破
+  # docker
+  - DOMAIN-SUFFIX,registry-1.docker.io, 🔐 内网突破
+  - DOMAIN-SUFFIX,mirror.baidubce.com, 🔐 内网突破
+  - DOMAIN-SUFFIX,hub-mirror.c.163.com, 🔐 内网突破
+  # sina
+  - DOMAIN-SUFFIX,weibo.cn, 🔐 内网突破
+  - DOMAIN-SUFFIX,weibo.com, 🔐 内网突破
+  - DOMAIN-SUFFIX,sina.com.cn, 🔐 内网突破
+  - DOMAIN-SUFFIX,sinaimg.cn, 🔐 内网突破
+  # others
+  - DOMAIN-SUFFIX,shihanmax.top, 🔐 内网突破
+  - DOMAIN-SUFFIX,oldpan.me, 🔐 内网突破
+  - DOMAIN-SUFFIX,flomoapp.com, 🔐 内网突破
+  - DOMAIN-SUFFIX,segmentfault.com, 🔐 内网突破
+  - DOMAIN-SUFFIX,echo.cool, 🔐 内网突破
+  # wechat
+  - DOMAIN-SUFFIX,weixin.qq.com, 🔐 内网突破
+
+  # baiduDisk
+  - DOMAIN-SUFFIX,pan.baidu.com, 🔐 内网突破
+  - DOMAIN-SUFFIX,yun.139.com, 🔐 内网突破
